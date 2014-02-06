@@ -14,3 +14,6 @@ The system has the following features:
  - Record purchases of marble tiles from suppliers. Once confirmed, the amount would be added to the available stock. This includes deducting the cost of the purchase from the available balance.
  - Allow suppliers to sign into the system and update order status (Out of Stock or Shipped). 
  - Give users certain access rights into certain parts of the system.
+
+The company no longer uses the system due to domain-related problems, but I can upload the website on a hosting service on request.
+
