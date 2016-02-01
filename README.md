@@ -1,7 +1,7 @@
 DeltaOne
 ========
 
-<h2>DeltaOne Stock Tracking & Accounts System<h2>
+<h2>DeltaOne Stock Tracking & Accounts System</h2>
 
 I built this system as my A-Level computing coursework (on which I received a grade of A). The system was built for a real client, Delta One Contractors, a new company that was starting up in my hometown: Jeddah, Saudi Arabia.
 
